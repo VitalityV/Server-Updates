@@ -1,2 +1,1 @@
-# Server-Updates
-Hier werden alle Updates rund um VitalityV kommen.
+Willkommen! hier werden alle Updates stehen.
